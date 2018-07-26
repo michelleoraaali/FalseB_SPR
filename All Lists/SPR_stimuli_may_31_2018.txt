@@ -1,0 +1,407 @@
+# strangers5 1 first_stranger
+You_are_at_a_music_festival_and_another_concert_goer_comments: That's_the_DJ who_played at_my_wedding in_the_summer of_2014_and became_famous_the year_after.
+? Do you know the person who was speaking? No
+# strangers5 1 second_stranger
+You_are_at_a_music_festival_and_another_concert_goer_comments: That's_the_DJ who_played at_your_wedding in_the_summer of_2014_and became_famous_the year_after.
+? Do you know the person who was speaking? No
+# strangers5 1 first_friend
+You_are_at_a_music_festival_and_your_best_friend_comments: That's_the_DJ who_played at_my_wedding in_the_summer of_2014_and became_famous_the year_after.
+? Do you know the person who was speaking? Yes
+# strangers5 1 second_friend
+You_are_at_a_music_festival_and_your_best_friend_comments: That's_the_DJ who_played at_your_wedding in_the_summer of_2014_and became_famous_the year_after.
+? Do you know the person who was speaking? Yes
+
+# strangers5 2 first_stranger
+You_are_having_dinner_at_a_restaurant_when_a_customer_at_another_table_says: This_greasy_food is_terrible for_my_ulcer but_it's_an old_favorite_and those_are_hard to_give_up.
+? Do you know the person who was speaking? No
+# strangers5 2 second_stranger
+You_are_having_dinner_at_a_restaurant_when_a_customer_at_another_table_says: This_greasy_food is_terrible for_your_ulcer but_it's_an old_favorite_and those_are_hard to_give_up.
+? Do you know the person who was speaking? No
+# strangers5 2 first_friend
+You_are_having_dinner_with_your_dad_at_a_restaurant_when_he_says: This_greasy_food is_terrible for_my_ulcer but_it's_an old_favorite_and those_are_hard to_give_up.
+? Do you know the person who was speaking? Yes
+# strangers5 2 second_friend
+You_are_having_dinner_with_your_dad_at_a_restaurant_when_he_says: This_greasy_food is_terrible for_your_ulcer but_it's_an old_favorite_and those_are_hard to_give_up.
+? Do you know the person who was speaking? Yes
+
+# strangers5 3 first_stranger
+You_are_waiting_for_a_bus_when_a_young_woman_tells_you: Your_necklace_looks like_the one_my_mother wears_for_very special_occasions_only because_it_is so_precious_to_her.
+? Do you know the person who was speaking? No
+# strangers5 3 second_stranger
+You_are_waiting_for_a_bus_when_a_young_woman_tells_you: Your_necklace_looks like_the one_your_mother wears_for_very special_occasions_only because_it_is so_precious_to_her.
+? Do you know the person who was speaking? No
+# strangers5 3 first_friend
+You_are_waiting_for_a_bus_when_your_aunt_tells_you: Your_necklace_looks like_the one_my_mother wears_for_very special_occasions_only because_it_is so_precious_to_her.
+? Do you know the person who was speaking? Yes
+# strangers5 3 second_friend
+You_are_waiting_for_a_bus_when_your_aunt_tells_you: Your_necklace_looks like_the one_your_mother wears_for_very special_occasions_only because_it_is so_precious_to_her.
+? Do you know the person who was speaking? Yes
+
+# strangers5 4 first_stranger
+You_are_lighting_up_a_cigarette_outside_of_work_when_a_woman_passing_by_tells_you: You_shouldn't_smoke: that's_what killed_my_father more_than_ten years_ago_and I_still_remember.
+? Do you know the person who was speaking? No
+# strangers5 4 second_stranger
+You_are_lighting_up_a_cigarette_outside_of_work_when_a_woman_passing_by_tells_you: You_shouldn't_smoke: that's_what killed_your_father more_than_ten years_ago_and I_still_remember.
+? Do you know the person who was speaking? No
+# strangers5 4 first_friend
+You_are_lighting_up_a_cigarette_outside_of_work_when_an_old_colleague_tells_you: You_shouldn't_smoke: that's_what killed_my_father more_than_ten years_ago_and I_still_remember.
+? Do you know the person who was speaking? Yes
+# strangers5 4 second_friend
+You_are_lighting_up_a_cigarette_outside_of_work_when_an_old_colleague_tells_you: You_shouldn't_smoke: that's_what killed_your_father more_than_ten years_ago_and I_still_remember.
+? Do you know the person who was speaking? Yes
+
+# strangers5 5 first_stranger
+You_are_taking_out_the_trash_when_a_homeless_man_tells_you: Raccoons_here_are bigger_than in_my_neighborhood in_the_suburbs of_Miami_and they_are_pretty big_over_there.
+? Do you know the person who was speaking? No
+# strangers5 5 second_stranger
+You_are_taking_out_the_trash_when_a_homeless_man_tells_you: Raccoons_here_are bigger_than in_your_neighborhood in_the_suburbs of_Miami_and they_are_pretty big_over_there.
+? Do you know the person who was speaking? No
+# strangers5 5 first_friend
+You_are_taking_out_the_trash_when_your_neighbor_tells_you: Raccoons_here_are bigger_than in_my_neighborhood in_the_suburbs of_Miami_and they_are_pretty big_over_there.
+? Do you know the person who was speaking? Yes
+# strangers5 5 second_friend
+You_are_taking_out_the_trash_when_your_neighbor_tells_you: Raccoons_here_are bigger_than in_your_neighborhood in_the_suburbs of_Miami_and they_are_pretty big_over_there.
+? Do you know the person who was speaking? Yes
+
+# strangers5 6 first_stranger
+You_are_watering_the_plants_in_your_front_yard_when_a_passer-by_tells_you: Your_marigolds_look more_gorgeous than_my_sister's and_she's_a professional_gardener_with years_of_experience.
+? Do you know the person who was speaking? No
+# strangers5 6 second_stranger
+You_are_watering_the_plants_in_your_front_yard_when_a_passer-by_tells_you: Your_marigolds_look more_gorgeous than_your_sister's and_she's_a professional_gardener_with years_of_experience.
+? Do you know the person who was speaking? No
+# strangers5 6 first_friend
+You_are_watering_the_plants_in_your_front_yard_when_you_husband_tells_you: Your_marigolds_look more_gorgeous than_my_sister's and_she's_a professional_gardener_with years_of_experience.
+? Do you know the person who was speaking? Yes
+# strangers5 6 second_friend
+You_are_watering_the_plants_in_your_front_yard_when_you_husband_tells_you: Your_marigolds_look more_gorgeous than_your_sister's and_she's_a professional_gardener_with years_of_experience.
+? Do you know the person who was speaking? Yes
+
+# strangers5 7 first_stranger
+You_are_browsing_in_a_new_yarn_store_when_the_owner_comments: This_beautiful_yarn is_dyed in_my_hometown near_the_border with_Canada,_where they_have_excellent wool.
+? Is the yarn made near Canada? Yes
+# strangers5 7 second_stranger
+You_are_browsing_in_a_new_yarn_store_when_the_owner_comments: This_beautiful_yarn is_dyed in_your_hometown near_the_border with_Canada,_where they_have_excellent wool.
+? Is the yarn made near Canada? Yes
+# strangers5 7 first_friend
+You_are_browsing_in_a_new_yarn_store_when_your_friend_comments: This_beautiful_yarn is_dyed in_my_hometown near_the_border with_Canada,_where they_have_excellent wool.
+? Is the yarn made near Canada? Yes
+# strangers5 7 second_friend
+You_are_browsing_in_a_new_yarn_store_when_your_friend_comments: This_beautiful_yarn is_dyed in_your_hometown near_the_border with_Canada,_where they_have_excellent wool.
+? Is the yarn made near Canada? Yes
+
+# strangers5 8 first_stranger
+You_are_lifting_weights_at_the_gym_when_a_stranger_says_to_you: This_gym_is very_close to_my_house and_not_far from_work,_so it_is_really convenient.
+? Does the speaker say that the gym is convenient? Yes
+# strangers5 8 second_stranger
+You_are_lifting_weights_at_the_gym_when_a_stranger_says_to_you: This_gym_is very_close to_your_house and_not_far from_work,_so it_is_really convenient.
+? Does the speaker say that the gym is convenient? Yes
+# strangers5 8 first_friend
+You_are_lifting_weights_at_the_gym_when_your_gym_buddy_says_to_you: This_gym_is very_close to_my_house and_not_far from_work,_so it_is_really convenient.
+? Does the speaker say that the gym is convenient? Yes
+# strangers5 8 second_friend
+You_are_lifting_weights_at_the_gym_when_your_gym_buddy_says_to_you: This_gym_is very_close to_your_house and_not_far from_work,_so it_is_really convenient.
+? Does the speaker say that the gym is convenient? Yes
+
+# strangers5 9 first_stranger
+You_are_at_a_jewelry_store_and_the_jeweler_tells_you: This_diamond_engagement ring_looks like_my_mother's, which_she_still wears_sometimes_when she_dresses_up for_fancy_occasions.
+? Does the ring look like a ring from someone's mother? Yes
+# strangers5 9 second_stranger
+You_are_at_a_jewelry_store_and_the_jeweler_tells_you: This_diamond_engagement ring_looks like_your_mother's, which_she_still wears_sometimes_when she_dresses_up for_fancy_occasions.
+? Does the ring look like a ring from someone's mother? Yes
+# strangers5 9 first_friend
+You_are_at_a_jewelry_store_and_your_fiance_tells_you: This_diamond_engagement ring_looks like_my_mother's, which_she_still wears_sometimes_when she_dresses_up for_fancy_occasions.
+? Does the ring look like a ring from someone's mother? Yes
+# strangers5 9 second_friend
+You_are_at_a_jewelry_store_and_your_fiance_tells_you: This_diamond_engagement ring_looks like_your_mother's, which_she_still wears_sometimes_when she_dresses_up for_fancy_occasions.
+? Does the ring look like a ring from someone's mother? Yes
+
+# strangers5 10 first_stranger
+You_are_taking_your_cat_to_the_vet_when_another_pet_owner_comments: Your_cat_looks as_sick as_my_aunt's did_before_it got_surgery_and completely_recovered_after a_little_while.
+? Does the cat look sick? Yes
+# strangers5 10 second_stranger
+You_are_taking_your_cat_to_the_vet_when_another_pet_owner_comments: Your_cat_looks as_sick as_your_aunt's did_before_it got_surgery_and completely_recovered_after a_little_while.
+? Does the cat look sick? Yes
+# strangers5 10 first_friend
+You_are_taking_your_cat_to_the_vet_when_you_husband_comments: Your_cat_looks as_sick as_my_aunt's did_before_it got_surgery_and completely_recovered_after a_little_while.
+? Does the cat look sick? Yes
+# strangers5 10 second_friend
+You_are_taking_your_cat_to_the_vet_when_you_husband_comments: Your_cat_looks as_sick as_your_aunt's did_before_it got_surgery_and completely_recovered_after a_little_while.
+? Does the cat look sick? Yes
+
+# strangers5 11 first_stranger
+You_are_picking_up_a_prescription_from_the_pharmacy_and_a_new_pharmacist_tells_you: You_have_the same_eyes as_my_late mother_who_was very_kind_and always_tried_to help_others.
+? Are you picking up a prescription? Yes
+# strangers5 11 second_stranger
+You_are_picking_up_a_prescription_from_the_pharmacy_and_a_new_pharmacist_tells_you: You_have_the same_eyes as_your_late mother_who_was very_kind_and always_tried_to help_others.
+? Are you picking up a prescription? Yes
+# strangers5 11 first_friend
+You_are_picking_up_a_prescription_from_the_pharmacy_and_your_close_friend_tells_you: You_have_the same_eyes as_my_late mother_who_was very_kind_and always_tried_to help_others.
+? Are you picking up a prescription? Yes
+# strangers5 11 second_friend
+You_are_picking_up_a_prescription_from_the_pharmacy_and_your_close_friend_tells_you: You_have_the same_eyes as_your_late mother_who_was very_kind_and always_tried_to help_others.
+? Are you picking up a prescription? Yes
+
+# strangers5 12 first_stranger
+You_are_on_a_bus_when_an_old_song_starts_playing_on_the_radio_and_another_passenger_says: They_played_this same_song at_my_father's funeral_and_everybody started_crying:_it was_very_moving for_me.
+? Is there a song playing on the radio? Yes
+# strangers5 12 second_stranger
+You_are_on_a_bus_when_an_old_song_starts_playing_on_the_radio_and_another_passenger_says: They_played_this same_song at_your_father's funeral_and_everybody started_crying:_it was_very_moving for_me.
+? Is there a song playing on the radio? Yes
+# strangers5 12 first_friend
+You_are_on_a_bus_when_an_old_song_starts_playing_on_the_radio_and_your_cousin_says: They_played_this same_song at_my_father's funeral_and_everybody started_crying:_it was_very_moving for_me.
+? Is there a song playing on the radio? Yes
+# strangers5 12 second_friend
+You_are_on_a_bus_when_an_old_song_starts_playing_on_the_radio_and_your_cousin_says: They_played_this same_song at_your_father's funeral_and_everybody started_crying:_it was_very_moving for_me.
+? Is there a song playing on the radio? Yes
+
+# strangers5 13 first_stranger
+You_are_on_holiday_at_a_beach_resort,_when_a_local_says: We_hadn't_had strong_currents since_my_birthday last_year:_it was_dangerous_even for_the_lifeguards, who_are_great_swimmers.
+? Are you unfamiliar with the person who was speaking? Yes
+# strangers5 13 second_stranger
+You_are_on_holiday_at_a_beach_resort,_when_a_local_says: We_hadn't_had strong_currents since_your_birthday last_year:_it was_dangerous_even for_the_lifeguards, who_are_great_swimmers.
+? Are you unfamiliar with the person who was speaking? Yes
+# strangers5 13 first_friend
+You_are_on_holiday_at_a_beach_resort,_when_your_wife_says: We_hadn't_had strong_currents since_my_birthday last_year:_it was_dangerous_even for_the_lifeguards, who_are_great_swimmers.
+? Are you unfamiliar with the person who was speaking? No
+# strangers5 13 second_friend
+You_are_on_holiday_at_a_beach_resort,_when_your_wife_says: We_hadn't_had strong_currents since_your_birthday last_year:_it was_dangerous_even for_the_lifeguards, who_are_great_swimmers.
+? Are you unfamiliar with the person who was speaking? No
+
+# strangers5 14 first_stranger
+You_are_eating_at_the_counter_in_a_diner_when_another_customer_says: These_pancakes_are like_the ones_my_grandma made_when_we were_kids_and we_would_beg her_to_make_them_for_us.
+? Are you unfamiliar with the person who was speaking? Yes
+# strangers5 14 second_stranger
+You_are_eating_at_the_counter_in_a_diner_when_another_customer_says: These_pancakes_are like_the ones_your_grandma made_when_we were_kids_and we_would_beg her_to_make_them_for_us.
+? Are you unfamiliar with the person who was speaking? Yes
+# strangers5 14 first_friend
+You_are_eating_at_the_counter_in_a_diner_when_your_mother_says: These_pancakes_are like_the ones_my_grandma made_when_we were_kids_and we_would_beg her_to_make_them_for_us.
+? Are you unfamiliar with the person who was speaking? No
+# strangers5 14 second_friend
+You_are_eating_at_the_counter_in_a_diner_when_your_mother_says: These_pancakes_are like_the ones_your_grandma made_when_we were_kids_and we_would_beg her_to_make_them_for_us.
+? Are you unfamiliar with the person who was speaking? No
+
+# strangers5 15 first_stranger
+You_are_at_the_dentist's_office_when_a_stranger_tells_you: Dental_care_is not_covered by_my_insurance, so_this_will be_expensive_and probably_painful_too, unfortunately.
+? Are you unfamiliar with the person who was speaking? Yes
+# strangers5 15 second_stranger
+You_are_at_the_dentist's_office_when_a_stranger_tells_you: Dental_care_is not_covered by_your_insurance, so_this_will be_expensive_and probably_painful_too, unfortunately.
+? Are you unfamiliar with the person who was speaking? Yes
+# strangers5 15 first_friend
+You_are_at_the_dentist's_office_when_your_husband_tells_you: Dental_care_is not_covered by_my_insurance, so_this_will be_expensive_and probably_painful_too, unfortunately.
+? Are you unfamiliar with the person who was speaking? No
+# strangers5 15 second_friend
+You_are_at_the_dentist's_office_when_your_husband_tells_you: Dental_care_is not_covered by_your_insurance, so_this_will be_expensive_and probably_painful_too, unfortunately.
+? Are you unfamiliar with the person who was speaking? No
+
+# strangers5 16 first_stranger
+You_are_waiting_in_line_in_a_cafeteria_when_the_woman_in_front_of_you_comments: These_luscious_cakes aren't_good for_my_diabetes but_they_are a_treat_every now_and_then for_me.
+? Are you unfamiliar with the person who was speaking? Yes
+# strangers5 16 second_stranger
+You_are_waiting_in_line_in_a_cafeteria_when_the_woman_in_front_of_you_comments: These_luscious_cakes aren't_good for_your_diabetes but_they_are a_treat_every now_and_then for_me.
+? Are you unfamiliar with the person who was speaking? Yes
+# strangers5 16 first_friend
+You_are_waiting_in_line_in_a_cafeteria_when_your_girlfriend_comments: These_luscious_cakes aren't_good for_my_diabetes but_they_are a_treat_every now_and_then for_me.
+? Are you unfamiliar with the person who was speaking? No
+# strangers5 16 second_friend
+You_are_waiting_in_line_in_a_cafeteria_when_your_girlfriend_comments: These_luscious_cakes aren't_good for_your_diabetes but_they_are a_treat_every now_and_then for_me.
+? Are you unfamiliar with the person who was speaking? No
+
+# strangers5 17 first_stranger
+You_are_waiting_to_see_a_specialist_when_another_patient_tells_you: I_saw_a car_crash near_my_apartment today,_right_opposite the_pharmacy:_it was_very_scary for_me.
+? Are you unfamiliar with the person who was speaking? Yes
+# strangers5 17 second_stranger
+You_are_waiting_to_see_a_specialist_when_another_patient_tells_you: I_saw_a car_crash near_your_apartment today,_right_opposite the_pharmacy:_it was_very_scary for_me.
+? Are you unfamiliar with the person who was speaking? Yes
+# strangers5 17 first_friend
+You_are_waiting_to_see_a_specialist_when_your_father_tells_you: I_saw_a car_crash near_my_apartment today,_right_opposite the_pharmacy:_it was_very_scary for_me.
+? Are you unfamiliar with the person who was speaking? No
+# strangers5 17 second_friend
+You_are_waiting_to_see_a_specialist_when_your_father_tells_you: I_saw_a car_crash near_your_apartment today,_right_opposite the_pharmacy:_it was_very_scary for_me.
+? Are you unfamiliar with the person who was speaking? No
+
+# strangers5 18 first_stranger
+You_are_ordering_Chinese_takeout_from_a_restaurant_that_you_never_visited_before_and_the_employee_comments: Pork_dumplings_always remind_me of_my_cousin because_he_really likes_them_and eats_them_almost every_day.
+? Are you unfamiliar with the person who was speaking? Yes
+# strangers5 18 second_stranger
+You_are_ordering_Chinese_takeout_from_a_restaurant_that_you_never_visited_before_and_the_employee_comments: Pork_dumplings_always remind_me of_your_cousin because_he_really likes_them_and eats_them_almost every_day.
+? Are you unfamiliar with the person who was speaking? Yes
+# strangers5 18 first_friend
+You_are_ordering_Chinese_takeout_from_a_restaurant_that_you_never_visited_before_and_your_fiancee_comments: Pork_dumplings_always remind_me of_my_cousin because_he_really likes_them_and eats_them_almost every_day.
+? Are you unfamiliar with the person who was speaking? No
+# strangers5 18 second_friend
+You_are_ordering_Chinese_takeout_from_a_restaurant_that_you_never_visited_before_and_your_fiancee_comments: Pork_dumplings_always remind_me of_your_cousin because_he_really likes_them_and eats_them_almost every_day.
+? Are you unfamiliar with the person who was speaking? No
+
+# strangers5 19 first_stranger
+You_are_buying_cookies_at_a_bakery_when_another_customer_tells_you: They_use_flour and_oats from_my_family's farm_down_by the_lake,_so those_ingredients_are organic.
+? Are you buying ingredients at an outdoor market? No
+# strangers5 19 second_stranger
+You_are_buying_cookies_at_a_bakery_when_another_customer_tells_you: They_use_flour and_oats from_your_family's farm_down_by the_lake,_so those_ingredients_are organic.
+? Are you buying ingredients at an outdoor market? No
+# strangers5 19 first_friend
+You_are_buying_cookies_at_a_bakery_when_your_roommate_tells_you: They_use_flour and_oats from_my_family's farm_down_by the_lake,_so those_ingredients_are organic.
+? Are you buying ingredients at an outdoor market? No
+# strangers5 19 second_friend
+You_are_buying_cookies_at_a_bakery_when_your_roommate_tells_you: They_use_flour and_oats from_your_family's farm_down_by the_lake,_so those_ingredients_are organic.
+? Are you buying ingredients at an outdoor market? No
+
+# strangers5 20 first_stranger
+You_are_on_a_bus_when_the_man_sitting_next_to_you_says: That_blond_woman reminds_me of_my_ex-wife when_she_was much_younger_and a_bit_more slender.
+? Is the speaker talking about a red-haired woman? No
+# strangers5 20 second_stranger
+You_are_on_a_bus_when_the_man_sitting_next_to_you_says: That_blond_woman reminds_me of_your_ex-wife when_she_was much_younger_and a_bit_more slender.
+? Is the speaker talking about a red-haired woman? No
+# strangers5 20 first_friend
+You_are_on_a_bus_when_your_best_friend_says: That_blond_woman reminds_me of_my_ex-wife when_she_was much_younger_and a_bit_more slender.
+? Is the speaker talking about a red-haired woman? No
+# strangers5 20 second_friend
+You_are_on_a_bus_when_your_best_friend_says: That_blond_woman reminds_me of_your_ex-wife when_she_was much_younger_and a_bit_more slender.
+? Is the speaker talking about a red-haired woman? No
+
+# strangers5 21 first_stranger
+You_are_waiting_at_a_doctor's_practice_when_another_patient_tells_you: This_month_they were_late with_my_bill and_the_insurance company_complained,_so let's_hope_it won't_happen_again.
+? Are you waiting at the dentist? No
+# strangers5 21 second_stranger
+You_are_waiting_at_a_doctor's_practice_when_another_patient_tells_you: This_month_they were_late with_your_bill and_the_insurance company_complained,_so let's_hope_it won't_happen_again.
+? Are you waiting at the dentist? No
+# strangers5 21 first_friend
+You_are_waiting_at_a_doctor's_practice_when_your_mother_tells_you: This_month_they were_late with_my_bill and_the_insurance company_complained,_so let's_hope_it won't_happen_again.
+? Are you waiting at the dentist? No
+# strangers5 21 second_friend
+You_are_waiting_at_a_doctor's_practice_when_your_mother_tells_you: This_month_they were_late with_your_bill and_the_insurance company_complained,_so let's_hope_it won't_happen_again.
+? Are you waiting at the dentist? No
+
+# strangers5 22 first_stranger
+You_are_next_to_an_unfamiliar_old_woman_on_a_park_bench_who_tells_you: Very_sadly,_since the_death of_my_husband, this_park_isn't the_same_and it_probably_never will_be.
+? Are you sitting on the grass in the park? No
+# strangers5 22 second_stranger
+You_are_next_to_an_unfamiliar_old_woman_on_a_park_bench_who_tells_you: Very_sadly,_since the_death of_your_husband, this_park_isn't the_same_and it_probably_never will_be.
+? Are you sitting on the grass in the park? No
+# strangers5 22 first_friend
+You_are_next_to_your_aunt_on_a_park_bench_who_tells_you: Very_sadly,_since the_death of_my_husband, this_park_isn't the_same_and it_probably_never will_be.
+? Are you sitting on the grass in the park? No
+# strangers5 22 second_friend
+You_are_next_to_your_aunt_on_a_park_bench_who_tells_you: Very_sadly,_since the_death of_your_husband, this_park_isn't the_same_and it_probably_never will_be.
+? Are you sitting on the grass in the park? No
+
+# strangers5 23 first_stranger
+You_are_waiting_to_check_in_for_your_flight_when_the_passenger_behind_you_comments: This_airline_is chaotic:_they lost_my_luggage twice_in_the last_month_and they_are_still processing_the_compensation_claim.
+? Are you at the train station? No
+# strangers5 23 second_stranger
+You_are_waiting_to_check_in_for_your_flight_when_the_passenger_behind_you_comments: This_airline_is chaotic:_they lost_your_luggage twice_in_the last_month_and they_are_still processing_the_compensation_claim.
+? Are you at the train station? No
+# strangers5 23 first_friend
+You_are_waiting_to_check_in_for_your_flight_when_your_dad_comments: This_airline_is chaotic:_they lost_my_luggage twice_in_the last_month_and they_are_still processing_the_compensation_claim.
+? Are you at the train station? No
+# strangers5 23 second_friend
+You_are_waiting_to_check_in_for_your_flight_when_your_dad_comments: This_airline_is chaotic:_they lost_your_luggage twice_in_the last_month_and they_are_still processing_the_compensation_claim.
+? Are you at the train station? No
+
+# strangers5 24 first_stranger
+You_are_buying_a_gift_for_your_mom,_and_a_shop_assistant_recommends_you_a_perfume: This_is_a classic!_It's actually_my_mother's favorite:_she_still uses_it_after many_years_since first_trying_it.
+? Are you buying a gift for you grandmother? No
+# strangers5 24 second_stranger
+You_are_buying_a_gift_for_your_mom,_and_a_shop_assistant_recommends_you_a_perfume: This_is_a classic!_It's actually_your_mother's favorite:_she_still uses_it_after many_years_since first_trying_it.
+? Are you buying a gift for you grandmother? No
+# strangers5 24 first_friend
+You_are_buying_a_gift_for_your_mom,_and_your_wife_recommends_you_a_perfume: This_is_a classic!_It's actually_my_mother's favorite:_she_still uses_it_after many_years_since first_trying_it.
+? Are you buying a gift for you grandmother? No
+# strangers5 24 second_friend
+You_are_buying_a_gift_for_your_mom,_and_your_wife_recommends_you_a_perfume: This_is_a classic!_It's actually_your_mother's favorite:_she_still uses_it_after many_years_since first_trying_it.
+? Are you buying a gift for you grandmother? No
+
+# FillerFriend 25 FillerFriend
+You_are_in_the_school_dining_hall_when_your_roommate_tells_you: This_dining_hall will_be closed_between_June and_September_because they_will_be doing_renovations.
+? Will the dining hall be closed for the entire summer? Yes
+
+# FillerFriend 26 FillerFriend
+You_are_on_a_road_trip_with_an_old_boyfriend_when_he_asks_you: What_time_are we_meeting your_sister_when we_get_to Portland_this_evening?
+? Are you meeting someone in Portland? Yes
+
+# FillerFriend 27 FillerFriend
+You_are_having_lunch_at_a_Japanese_restaurant_with_some_friends_when_one_of_them_comments: The_sushi_here is_not as_good_as what_you_can get_in_Japan.
+? Are you and your friends having sushi for lunch? Yes
+
+# FillerFriend 28 FillerFriend
+You_are_shopping_at_an_outlet_mall_with_several_friends_when_one_of_them_says: We_shouldn't_have come_here. The_clothes_are not_cheap_at all.
+? Do you and your friends regret coming to the outlet mall? Yes
+
+# FillerFriend 29 FillerFriend
+You_are_writing_an_essay_at_your_parents'_place_when_your_mom_warns_you: Don't_lay_on the_couch while_doing_your homework_or_you will_fall_asleep.
+? Was your mother concerned that you would not finish your homework? Yes
+
+# FillerFriend 30 FillerFriend
+You_are_having_lunch_when_your_housemate_comes_into_the_kitchen_and_comments: I_can't_believe you_only eat_an_egg and_a_tomato for_lunch.
+? Was your housemate surprised that you had such a light lunch? Yes
+
+# FillerFriend 31 FillerFriend
+You_are_leaving_the_library_with_one_of_your_classmates_when_he_tells_you: They_have_extended the_deadline for_our_biology paper:_It_is not_due_until Wednesday.
+? Has the deadline for your biology paper passed? No
+
+# FillerFriend 32 FillerFriend
+You_are_chatting_with_your_friend_at_a_Starbucks_when_she_comments: I_heard_Anna broke_up with_her_boyfriend after_six_and a_half_years together.
+? Did Anna break up with her boyfriend after eight and a half years together? No
+
+# FillerFriend 33 FillerFriend
+You_are_cooking_dinner_with_your_mother_when_she_tells_you: Don't_put_onions in_the noodles:_One_of our_guests_is allergic_to_onions.
+? Can all of tonight's guests eat onions? No
+
+# FillerFriend 34 FillerFriend
+You_are_visiting_a_chocolate_factory_with_your_mother_when_she_comments: Their_chocolate_contains only_five percent_sugar._That's why_it_tastes so_bitter.
+? Did the chocolate contain seven percent sugar? No
+
+# FillerFriend 35 FillerFriend
+You_are_at_a_Christmas_party_when_one_of_your_colleagues_asks: Do_you_have any_ideas for_a_Christmas present_for_my 12_year_old daughter?
+? Were you and your colleagues at a birthday party? No
+
+# FillerFriend 36 FillerFriend
+You_are_on_a_Skype_call_with_your_family_when_your_father_comments: You_should_tell us_what you_want_for your_birthday_this year.
+? Was your father thinking of getting you a Christmas present? No
+
+# FillerStranger 37 FillerStranger
+You_are_sitting_in_a_coffee_shop_and_the_customer_next_to_you_comments: The_service_here has_been getting_worse_and worse_since_they got_a_new manager.
+? Did the coffee shop change managers recently? Yes
+
+# FillerStranger 38 FillerStranger
+You_are_at_a_fancy_business_dinner_and_the_waiter_makes_a_recommendation: A_French_red wine_would go_very_well with_the_steak you_just_ordered.
+? Did the waiter suggest you should order a red wine? Yes
+
+# FillerStranger 39 FillerStranger
+You_are_on_the_bus_and_start_searching_your_pockets_for_change_when_the_bus_driver_says: Please_hurry_up! There_are many_people_behind you_and_it's cold_outside.
+? Was the bus driver in a hurry? Yes
+
+# FillerStranger 40 FillerStranger
+You_are_on_a_train_and_a_little_girl_compliments_you: I_love_your dress._I wish_I_had one_like_that myself.
+? Did the little girl flatter you? Yes
+
+# FillerStranger 41 FillerStranger
+You_are_out_walking_your_dog_when_a_woman_asks_you: Where_do_you get_your dog_groomed? Her coat_is_so beautiful.
+? Did the woman think your dog was well groomed? Yes
+
+# FillerStranger 42 FillerStranger
+You_are_waiting_in_the_doctor's_office_when_one_of_the_other_patients_comments: I_hate_this wallpaper._The flowers_are_so ugly._They_should really_change_it.
+? Did the wall paper in the doctor's office have flowers on it? Yes
+
+# FillerStranger 43 FillerStranger
+You_are_at_a_bus_stop_when_an_old_lady_remarks: It_is_going to_rain today:_I_can feel_it_in my_bones.
+? Did the old lady forecast a sunny day? No
+
+# FillerStranger 44 FillerStranger
+You_have_been_waiting_at_a_bus_stop_for_a_few_minutes_when_a_young_man_asks_you: Do_you_happen to_know what_time_the bus_is_supposed to_come?
+? Did the young man ask you about a train? No
+
+# FillerStranger 45 FillerStranger
+You_are_sitting_on_a_park_bench_when_the_man_next_to_you_says: It_is_really sunny_today. I_should_have put_on_more sunscreen.
+? Was it overcast at the park? No
+
+# FillerStranger 46 FillerStranger
+You_are_at_a_farmers'_market_and_one_of_the_vendors_asks: Would_you_like to_try my_organic_goat cheese?_It's_really delicious.
+? Did the farmer offer you organic cheese from a cow? No
+
+# FillerStranger 47 FillerStranger
+You_are_on_a_boat_and_the_woman_next_to_you_comments: I_feel_so bad_for people_who_get seasick._I_love sailing.
+? Was the woman next to you feeling seasick? No
+
+# FillerStranger 48 FillerStranger
+You_are_about_to_board_your_plane_when_the_person_behind_you_in_line_comments: I_wish_I had_booked first_class_so I_could_have boarded_already.
+? Was the person behind you happy to fly economy? No
